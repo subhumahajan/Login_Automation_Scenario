@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[- On Test Start]]>
+    </line>
+    <line>
+      <![CDATA[- On Test Start]]>
+    </line>
+    <line>
+      <![CDATA[Actual Url: https://practicetestautomation.com/logged-in-successfully/]]>
+    </line>
+    <line>
+      <![CDATA[URL SUCCESSFULLY MACTHED]]>
+    </line>
+    <line>
+      <![CDATA[Login Page Text: Logged In Successfully]]>
+    </line>
+    <line>
+      <![CDATA[LOGIN PAGE TEXT SUCCESSFULLY MACTHED]]>
+    </line>
+    <line>
+      <![CDATA[Congratulation Text:: Congratulations student. You successfully logged in!]]>
+    </line>
+    <line>
+      <![CDATA[CONGRATULATION TEXT SUCCESSFULLY MACTHED]]>
+    </line>
+    <line>
+      <![CDATA[Logout Button Visible: true]]>
+    </line>
+    <line>
+      <![CDATA[Logout Button Is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[VALID USERNAME AND PASSWORD]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[Username Validation Is: Your username is invalid!]]>
+    </line>
+    <line>
+      <![CDATA[INVALID USER VALIDATION SUCCESSFULLY MATCHED]]>
+    </line>
+    <line>
+      <![CDATA[INVALID USERNAME AND VALID PASSWORD]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[Password Validation Is: Your password is invalid!]]>
+    </line>
+    <line>
+      <![CDATA[INVALID PASSWORD VALIDATION SUCCESSFULLY MATCHED]]>
+    </line>
+    <line>
+      <![CDATA[VALID USERNAME AND INVALID PASSWORD]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[- On Test Success]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-01-07T07:33:23 IST" name="LoginPageAutomation" finished-at="2025-01-07T07:33:53 IST" duration-ms="30100">
+    <groups>
+    </groups>
+    <test started-at="2025-01-07T07:33:23 IST" name="LoginPageAutomation" finished-at="2025-01-07T07:33:53 IST" duration-ms="30100">
+      <class name="base.LoginPageAutomation">
+        <test-method is-config="true" signature="open_browser()[pri:0, instance:base.LoginPageAutomation@31fa1761]" started-at="2025-01-07T07:33:24 IST" name="open_browser" finished-at="2025-01-07T07:33:39 IST" duration-ms="15855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method signature="login_page_with_valid_user_and_pass()[pri:1, instance:base.LoginPageAutomation@31fa1761]" started-at="2025-01-07T07:33:39 IST" name="login_page_with_valid_user_and_pass" finished-at="2025-01-07T07:33:51 IST" duration-ms="11602" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[- On Test Start]]>
+            </line>
+            <line>
+              <![CDATA[Actual Url: https://practicetestautomation.com/logged-in-successfully/]]>
+            </line>
+            <line>
+              <![CDATA[URL SUCCESSFULLY MACTHED]]>
+            </line>
+            <line>
+              <![CDATA[Login Page Text: Logged In Successfully]]>
+            </line>
+            <line>
+              <![CDATA[LOGIN PAGE TEXT SUCCESSFULLY MACTHED]]>
+            </line>
+            <line>
+              <![CDATA[Congratulation Text:: Congratulations student. You successfully logged in!]]>
+            </line>
+            <line>
+              <![CDATA[CONGRATULATION TEXT SUCCESSFULLY MACTHED]]>
+            </line>
+            <line>
+              <![CDATA[Logout Button Visible: true]]>
+            </line>
+            <line>
+              <![CDATA[Logout Button Is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[VALID USERNAME AND PASSWORD]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[Username Validation Is: Your username is invalid!]]>
+            </line>
+            <line>
+              <![CDATA[INVALID USER VALIDATION SUCCESSFULLY MATCHED]]>
+            </line>
+            <line>
+              <![CDATA[INVALID USERNAME AND VALID PASSWORD]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[Password Validation Is: Your password is invalid!]]>
+            </line>
+            <line>
+              <![CDATA[INVALID PASSWORD VALIDATION SUCCESSFULLY MATCHED]]>
+            </line>
+            <line>
+              <![CDATA[VALID USERNAME AND INVALID PASSWORD]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[- On Test Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login_page_with_valid_user_and_pass -->
+        <test-method is-config="true" signature="close_browser()[pri:0, instance:base.LoginPageAutomation@31fa1761]" started-at="2025-01-07T07:33:51 IST" name="close_browser" finished-at="2025-01-07T07:33:53 IST" duration-ms="2014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- base.LoginPageAutomation -->
+    </test> <!-- LoginPageAutomation -->
+  </suite> <!-- LoginPageAutomation -->
+</testng-results>
